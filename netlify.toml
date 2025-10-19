@@ -1,0 +1,10 @@
+[build]
+  base = "."          # root of the repo
+  command = "npm run build"
+  publish = ".next"   # build output
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
