@@ -21,7 +21,7 @@ export default function HomePage() {
   <div className="container relative flex h-full items-center pl-8 pr-4 md:pl-16 md:pr-6">
           <div className="max-w-3xl space-y-6">
             <h1 className="text-5xl font-bold tracking-tight text-foreground md:text-7xl">
-              Paintings by Grant Ward
+              Paintings by<br></br> Grant Ward
             </h1>
             <p className="text-xl text-muted-foreground md:text-2xl">
               Contemporary landscapes and figurative works exploring light,
