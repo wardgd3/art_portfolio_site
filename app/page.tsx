@@ -18,7 +18,7 @@ export default function HomePage() {
           <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/40 to-background" />
         </div>
 
-        <div className="container relative flex h-full items-center px-4 md:px-6">
+  <div className="container relative flex h-full items-center pl-8 pr-4 md:pl-16 md:pr-6">
           <div className="max-w-3xl space-y-6">
             <h1 className="text-5xl font-bold tracking-tight text-foreground md:text-7xl">
               Paintings by Grant Ward
