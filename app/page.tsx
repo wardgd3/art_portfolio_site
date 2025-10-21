@@ -11,8 +11,7 @@ export default function HomePage() {
         <div
           className="absolute inset-0 bg-cover bg-center"
           style={{
-            backgroundImage:
-              'url(https://images.pexels.com/photos/1145720/pexels-photo-1145720.jpeg?auto=compress&cs=tinysrgb&w=1920)',
+            backgroundImage: "url('/images/bg-img-bolt-portfolio.jpg')",
           }}
         >
           <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/40 to-background" />
